@@ -1,0 +1,43 @@
+{
+ "mssv": "2A202604043",
+ "ten": "NguyenVietMinh",
+ "pool_version": "d04-k5-v2",
+ "cvat_user": "minh",
+ "project": "d04-keypoint",
+ "persons": [
+  "000000021235.jpg",
+  "000000241837.jpg",
+  "000000292999.jpg",
+  "000000308257.jpg",
+  "000000564304.jpg",
+  "000000183176.jpg",
+  "000000189365.jpg",
+  "000000521817.jpg",
+  "000000123544.jpg",
+  "000000461002.jpg",
+  "000000323705.jpg",
+  "000000326480.jpg"
+ ],
+ "faces": [
+  "face_125051.jpg",
+  "face_257657.jpg",
+  "face_559185.jpg",
+  "face_415073.jpg",
+  "face_53580.jpg",
+  "face_196742.jpg",
+  "face_405456.jpg",
+  "face_41666.jpg"
+ ],
+ "tasks": {
+  "persons": {
+   "task_id": 7,
+   "job_id": 7,
+   "task_name": "persons-NguyenVietMinh"
+  },
+  "faces": {
+   "task_id": 8,
+   "job_id": 8,
+   "task_name": "faces-NguyenVietMinh"
+  }
+ }
+}
